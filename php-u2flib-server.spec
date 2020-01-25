@@ -1,5 +1,4 @@
 # TODO: tests? (BR: phpunit)
-%include	/usr/lib/rpm/macros.php
 Summary:	PHP library for U2F implementation
 Summary(pl.UTF-8):	Biblioteka PHP do implementowania U2F
 Name:		php-u2flib-server
